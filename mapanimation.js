@@ -58,6 +58,7 @@ function addMarker(bus){
 
 function getIcon(bus){
 	// select icon based on bus direction
+	//red is going north, blue is going south
 	if (bus.attributes.direction_id === 0) {
 		return 'red.png';
 	}
