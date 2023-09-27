@@ -1,4 +1,4 @@
-# BusTracker
+# Bus Tracker
 <img src="BusTracker.png"/>
 
 ## Description
